@@ -1,6 +1,6 @@
 {
-  "name": "Heroku-Minio",
-  "description": "deploy minio to Heroku.",
+  "name": "Heroku Minio",
+  "description": "Deploy Minio to Heroku.",
   "keywords": ["minio"],
   "env": {
     "ACCESS_KEY": {
